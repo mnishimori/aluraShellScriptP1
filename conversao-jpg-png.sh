@@ -1,7 +1,7 @@
 #!/bin/bash
 
 converte_imagem(){
-	cd ~/Desenvolvimento/workspaces/Pessoal/Alura/ShellScript/imagens-livros/A
+	cd ~/Desenvolvimento/workspaces/Pessoal/Alura/ShellScript/imagens-livros/
 
 	if [ ! -d png ] 
 	then
